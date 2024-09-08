@@ -55,7 +55,7 @@ function App() {
           classNames='page' 
           timeout={500}
           >
-          <Routes location={location}>
+          <Routes location={location} basename='/color-project'>
             <Route
               path='/palette/new'
               element={
