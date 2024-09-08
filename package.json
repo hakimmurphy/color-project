@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-	  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emoji-mart/data": "^1.2.1",
@@ -24,6 +24,7 @@
     "@mui/material": "^5.16.7",
     "chroma-js": "^2.6.0",
     "emoji-mart": "^5.6.0",
+    "gh-pages": "^6.1.1",
     "rc-slider": "^11.1.5",
     "react": "^18.3.1",
     "react-color": "^2.19.3",
