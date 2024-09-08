@@ -48,14 +48,14 @@ function App() {
 
 
   return (
-    <div>
+    <div basename='/color-project'>
       <TransitionGroup>
         <CSSTransition 
           key={location.key} 
           classNames='page' 
           timeout={500}
           >
-          <Routes location={location} basename='/color-project'>
+          <Routes location={location}>
             <Route
               path='/palette/new'
               element={
