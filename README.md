@@ -100,5 +100,15 @@ color-project/
 
 ## 🙌 Acknowledgments
 - Fonts via Google Fonts in index.html. 
--vDeployment via gh-pages. 
+- vDeployment via gh-pages.
+
+---
+
+## 📄 License
+MIT
+
+---
+
+## 🗣️ Author
+Hakim Murphy
 
